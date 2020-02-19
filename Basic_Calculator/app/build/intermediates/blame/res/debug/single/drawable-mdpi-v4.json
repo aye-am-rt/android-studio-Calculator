@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "A:\\VtcAndroid\\Basic_Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon.png",
+        "source": "A:\\VtcAndroid\\Basic_Calculator\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "A:\\VtcAndroid\\Basic_Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "A:\\VtcAndroid\\Basic_Calculator\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]
